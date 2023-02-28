@@ -1,4 +1,4 @@
-## urlSeparator
+## sqlmapper
 Launch different instances of sqlmap in docker containers against a list of targets. Monitor said containers, and keep launching new ones as a pool of workers. After execution all results are either in the respective folder per chunk, or in the output file specified.
 
 First build, the image:
